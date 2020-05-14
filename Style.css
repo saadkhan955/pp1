@@ -1,0 +1,208 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #212432;
+}
+
+#logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*
+#logo path:nth-child(1) {
+    stroke-dasharray: 30px;
+}
+#logo path:nth-child(2) {}
+#logo path:nth-child(3) {}
+#logo path:nth-child(4) {}
+#logo path:nth-child(5) {}
+#logo path:nth-child(6) {}
+#logo path:nth-child(7) {}
+#logo path:nth-child(8) {}
+#logo path:nth-child(9) {}
+#logo path:nth-child(10) {}
+#logo path:nth-child(11) {}*/
+
+.hnaQzmlS_0 {
+                        stroke-dasharray: 4928 4930;
+                        stroke-dashoffset: 4929;
+                        animation: hnaQzmlS_draw 2000ms ease 0ms forwards;
+    }
+
+                    .hnaQzmlS_1 {
+                        stroke-dasharray: 4928 4930;
+                        stroke-dashoffset: 4929;
+                        animation: hnaQzmlS_draw 2000ms ease 40ms forwards;
+                    }
+
+                    .hnaQzmlS_2 {
+                        stroke-dasharray: 4928 4930;
+                        stroke-dashoffset: 4929;
+                        animation: hnaQzmlS_draw 2000ms ease 80ms forwards;
+                    }
+
+                    .hnaQzmlS_3 {
+                        stroke-dasharray: 2058 2060;
+                        stroke-dashoffset: 2059;
+                        animation: hnaQzmlS_draw 2000ms ease 120ms forwards;
+                    }
+
+                    .hnaQzmlS_4 {
+                        stroke-dasharray: 442 444;
+                        stroke-dashoffset: 443;
+                        animation: hnaQzmlS_draw 2000ms ease 160ms forwards;
+                    }
+
+                    .hnaQzmlS_5 {
+                        stroke-dasharray: 240 242;
+                        stroke-dashoffset: 241;
+                        animation: hnaQzmlS_draw 2000ms ease 200ms forwards;
+                    }
+
+                    .hnaQzmlS_6 {
+                        stroke-dasharray: 335 337;
+                        stroke-dashoffset: 336;
+                        animation: hnaQzmlS_draw 2000ms ease 240ms forwards;
+                    }
+
+                    .hnaQzmlS_7 {
+                        stroke-dasharray: 335 337;
+                        stroke-dashoffset: 336;
+                        animation: hnaQzmlS_draw 2000ms ease 280ms forwards;
+                    }
+
+                    .hnaQzmlS_8 {
+                        stroke-dasharray: 423 425;
+                        stroke-dashoffset: 424;
+                        animation: hnaQzmlS_draw 2000ms ease 320ms forwards;
+                    }
+
+                    .hnaQzmlS_9 {
+                        stroke-dasharray: 337 339;
+                        stroke-dashoffset: 338;
+                        animation: hnaQzmlS_draw 2000ms ease 360ms forwards;
+                    }
+
+                    .hnaQzmlS_10 {
+                        stroke-dasharray: 478 480;
+                        stroke-dashoffset: 479;
+                        animation: hnaQzmlS_draw 2000ms ease 400ms forwards;
+                    }
+
+                    .hnaQzmlS_11 {
+                        stroke-dasharray: 516 518;
+                        stroke-dashoffset: 517;
+                        animation: hnaQzmlS_draw 2000ms ease 440ms forwards;
+                    }
+
+                    .hnaQzmlS_12 {
+                        stroke-dasharray: 611 613;
+                        stroke-dashoffset: 612;
+                        animation: hnaQzmlS_draw 2000ms ease 480ms forwards;
+                    }
+
+                    .hnaQzmlS_13 {
+                        stroke-dasharray: 434 436;
+                        stroke-dashoffset: 435;
+                        animation: hnaQzmlS_draw 2000ms ease 520ms forwards;
+                    }
+
+                    .hnaQzmlS_14 {
+                        stroke-dasharray: 315 317;
+                        stroke-dashoffset: 316;
+                        animation: hnaQzmlS_draw 2000ms ease 560ms forwards;
+                    }
+
+                    .hnaQzmlS_15 {
+                        stroke-dasharray: 442 444;
+                        stroke-dashoffset: 443;
+                        animation: hnaQzmlS_draw 2000ms ease 600ms forwards;
+                    }
+
+                    .hnaQzmlS_16 {
+                        stroke-dasharray: 240 242;
+                        stroke-dashoffset: 241;
+                        animation: hnaQzmlS_draw 2000ms ease 640ms forwards;
+                    }
+
+                    .hnaQzmlS_17 {
+                        stroke-dasharray: 335 337;
+                        stroke-dashoffset: 336;
+                        animation: hnaQzmlS_draw 2000ms ease 680ms forwards;
+                    }
+
+                    .hnaQzmlS_18 {
+                        stroke-dasharray: 335 337;
+                        stroke-dashoffset: 336;
+                        animation: hnaQzmlS_draw 2000ms ease 720ms forwards;
+                    }
+
+                    .hnaQzmlS_19 {
+                        stroke-dasharray: 423 425;
+                        stroke-dashoffset: 424;
+                        animation: hnaQzmlS_draw 2000ms ease 760ms forwards;
+                    }
+
+                    .hnaQzmlS_20 {
+                        stroke-dasharray: 337 339;
+                        stroke-dashoffset: 338;
+                        animation: hnaQzmlS_draw 2000ms ease 800ms forwards;
+                    }
+
+                    .hnaQzmlS_21 {
+                        stroke-dasharray: 478 480;
+                        stroke-dashoffset: 479;
+                        animation: hnaQzmlS_draw 2000ms ease 840ms forwards;
+                    }
+
+                    .hnaQzmlS_22 {
+                        stroke-dasharray: 516 518;
+                        stroke-dashoffset: 517;
+                        animation: hnaQzmlS_draw 2000ms ease 880ms forwards;
+                    }
+
+                    .hnaQzmlS_23 {
+                        stroke-dasharray: 611 613;
+                        stroke-dashoffset: 612;
+                        animation: hnaQzmlS_draw 2000ms ease 920ms forwards;
+                    }
+
+                    .hnaQzmlS_24 {
+                        stroke-dasharray: 434 436;
+                        stroke-dashoffset: 435;
+                        animation: hnaQzmlS_draw 2000ms ease 960ms forwards;
+                    }
+
+                    .hnaQzmlS_25 {
+                        stroke-dasharray: 315 317;
+                        stroke-dashoffset: 316;
+                        animation: hnaQzmlS_draw 2000ms ease 1000ms forwards;
+                    }
+
+                    @keyframes hnaQzmlS_draw {
+                        100% {
+                            stroke-dashoffset: 0;
+                        }
+                    }
+
+                    @keyframes hnaQzmlS_fade {
+                        0% {
+                            stroke-opacity: 1;
+                        }
+
+                        94.44444444444444% {
+                            stroke-opacity: 1;
+                        }
+
+                        100% {
+                            stroke-opacity: 0;
+                        }
+                    }
